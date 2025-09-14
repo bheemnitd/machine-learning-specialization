@@ -2,9 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~OUOKG8RS0GQ2/CERTIFICATE_LANDING_PAGE~OUOKG8RS0GQ2.jpeg" alt="Machine Learning Specialization Certificate" />
   <h1>Machine Learning Specialization</h1>
 </head>
 <body>
+
+
   <h2>Supervised Machine Learning: Regression and Classification (Course 1)</h2>
   
   <h2>What You’ll Find Here</h2>
